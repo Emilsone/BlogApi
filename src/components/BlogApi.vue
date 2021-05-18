@@ -1,5 +1,5 @@
 <template>
-  <section id="shopping-app">
+  <section id="Blog-Api">
     <div id="app-vue">
       <div class="users">
         <div v-if="errored">
